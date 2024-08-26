@@ -1,7 +1,11 @@
 [package]
 name = "mdbook-callouts"
 version = "0.2.3"
-authors = ["Alisue <lambdalisue@gmail.com>", "GrayJack <gr41.j4ck@gmail.com>"]
+authors = [
+	"Yiyang Wu <toolmanp@tlmp.cc>",
+	"Alisue <lambdalisue@gmail.com>",
+	"GrayJack <gr41.j4ck@gmail.com>",
+]
 edition = "2021"
 
 description = "mdBook preprocessor to add Obsidian Flavored Markdown's Callouts to your book"
